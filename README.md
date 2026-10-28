@@ -123,7 +123,3 @@ Contributions and suggestions are welcome.
 
 - GitHub: [@savaliyabhargav20](https://github.com/savaliyabhargav20)
 - Project: [Airbnb Comparative Market Dashboard](https://github.com/savaliyabhargav20/Airbnb)
-
-## 📄 License
-
-No license information was confirmed in the repository. Add a `LICENSE` file if you want to specify how others may use, modify, or share this project.
